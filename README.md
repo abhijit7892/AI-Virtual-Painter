@@ -26,7 +26,11 @@ Real-time interaction
 
 Libraries
 
-OpenCV MediaPipe NumPy
+OpenCV
+
+MediaPipe
+
+NumPy
 
 Python Version
 

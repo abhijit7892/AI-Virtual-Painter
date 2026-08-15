@@ -5,20 +5,30 @@ An AI-powered virtual painting application that allows users to draw on a digita
 Features
 
 Real-time hand tracking
+
 Multiple drawing colors
+
 Draw using finger gestures
+
 Eraser using hand gestures
+
 Adjustable drawing and eraser thickness
+
 Real-time webcam detection
+
 Hand landmark detection
+
 Live virtual canvas
+
 Real-time gesture-based interaction
 
 Libraries used
-OpenCV
-MediaPipe
-NumPy
 
+OpenCV
+
+MediaPipe
+
+NumPy
 
 Python Version
 

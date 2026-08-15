@@ -30,7 +30,9 @@ OpenCV MediaPipe NumPy
 
 Python Version
 
-python 3.11
-
 Python 3.11
+
+
+
+
 

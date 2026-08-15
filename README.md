@@ -1,38 +1,74 @@
-AI Virtual Painter using Canvas
+AI Virtual Painter
 
-An AI-powered virtual painting application that allows users to draw on a digital canvas using hand gestures captured through a webcam.
+AI Virtual Painter is a computer vision project that allows users to draw on a virtual canvas using hand gestures through a webcam.
 
 Features
 
 Real-time hand tracking
 
-Multiple drawing colors
+Multiple colors
 
-Draw using finger gestures
+Hand gesture-based drawing
 
-Eraser using hand gestures
+Gesture-based eraser
 
-Adjustable drawing and eraser thickness
+Adjustable brush thickness
 
-Real-time webcam detection
+Adjustable eraser size
+
+Real-time webcam
 
 Hand landmark detection
 
-Live virtual canvas
+Virtual canvas
 
-Real-time gesture-based interaction
+Real-time interaction
 
-Libraries used
+Libraries
 
 OpenCV
-
 MediaPipe
-
 NumPy
 
 Python Version
 
 Python 3.11
 
-sh
-git clone YOUR_GITHUB_REPOSITORY_LINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```bash
+pip install -r requirements.txt

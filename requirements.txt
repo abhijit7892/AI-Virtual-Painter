@@ -1,0 +1,6 @@
+Requirements 
+
+1.Python 3.8 to 3.11.
+2.OpenCV
+3.MediaPipe 
+4.NumPy 

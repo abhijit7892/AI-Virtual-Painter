@@ -26,49 +26,11 @@ Real-time interaction
 
 Libraries
 
-OpenCV
-MediaPipe
-NumPy
+OpenCV MediaPipe NumPy
 
 Python Version
 
+python 3.11
+
 Python 3.11
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```bash
-pip install -r requirements.txt

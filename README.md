@@ -34,9 +34,5 @@ Python Version
 
 Python 3.11
 
-Clone the repository:
-
-
-
-```bash
+sh
 git clone YOUR_GITHUB_REPOSITORY_LINK
